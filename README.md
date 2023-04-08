@@ -72,7 +72,7 @@ mtd -r write breed-mt7621-xiaomi-r3g.bin Bootloader
 
 ### 2.3.设置PC为自动获取IP地址，访问http://192.168.1.1 进入Breed Web恢复控制台；
 
-### 2.4. 添加环境变量xiaomi.r3g.bootfw",值设置为 2
+### 2.4. 添加环境变量 xiaomi.r3g.bootfw ,值设置为 2
 
 ### 2.5 (可选步骤) 进入“小米 R3G 设置”找到字段“normal_firmware_md5”，点击最右边的删除并保存，完后再刷固件
 
